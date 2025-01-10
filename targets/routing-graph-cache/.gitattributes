@@ -1,0 +1,8 @@
+edges filter=lfs diff=lfs merge=lfs -text
+geometry filter=lfs diff=lfs merge=lfs -text
+location[[:space:]]_index filter=lfs diff=lfs merge=lfs -text
+nodes filter=lfs diff=lfs merge=lfs -text
+nodes_ch_car filter=lfs diff=lfs merge=lfs -text
+properties filter=lfs diff=lfs merge=lfs -text
+shortcuts_car filter=lfs diff=lfs merge=lfs -text
+string_index_vals filter=lfs diff=lfs merge=lfs -text
